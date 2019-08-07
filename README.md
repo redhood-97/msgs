@@ -1,4 +1,4 @@
-![alt text](https://github.com/anuragsarkar97/msgs/blob/v0.0.1/assets/Screenshot%202019-06-22%20at%205.11.52%20PM.png)
+![alt text](https://github.com/weebe/msgs/blob/master/assets/Screenshot%202019-06-22%20at%205.11.52%20PM.png)
 
 
 <div align="center">
